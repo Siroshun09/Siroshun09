@@ -6,8 +6,6 @@ Minecraft Spigot (BungeeCord) のプラグインを主に開発しています�
 
 公開 Minecraft サーバー [おこ鯖。](https://minecraft.jp/servers/okocraft.net) で運営を務めています。
 
----
-
 Hi, I'm a Java programmer mainly developing plugins for Minecraft Spigot / BungeeCord.
 
 I work on the public Minecraft server, [Okocraft](https://minecraft.jp/servers/okocraft.net).
